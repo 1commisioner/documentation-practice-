@@ -24,3 +24,4 @@ Before submitting a pull request, make sure you:
 - Make sure the changes solve the intended problem.
 - Write a clear pull request title and description.
 - Check that your changes do not introduce unnecessary changes.
+- Test the instructions to make sure they work as expected.
