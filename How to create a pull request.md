@@ -15,3 +15,13 @@ A pull request is request to the maintainers of a project to review and changes 
 
 ## Conclusion
 A pull request allows project maintainers and contributors to review changes before they are merged into the project
+
+## Before Submitting a Pull Request
+
+Before submitting a pull request, make sure you:
+
+- Review your changes for errors.
+- Make sure the changes solve the intended problem.
+- Write a clear pull request title and description.
+- Check that your changes do not introduce unnecessary changes.
+- Test the instructions to make sure they work as expected.
